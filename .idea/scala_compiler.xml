@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="kafkaSparkStreaming,sparkstreaming_kafka_operator,sparkstreaming_kafka_producer" />
+    <profile name="Maven 1" modules="kafkaSparkStreaming,sparkstreaming_kafka_operator,sparkstreaming_kafka_operator (1),sparkstreaming_kafka_producer,sparkstreaming_save_to_file" />
   </component>
 </project>

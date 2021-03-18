@@ -5,6 +5,10 @@
       <list>
         <option value="$PROJECT_DIR$/code/第五章/sparkstreaming_kafka_operator/pom.xml" />
         <option value="$PROJECT_DIR$/code/第五章/sparkstreaming_kafka_producer/pom.xml" />
+        <option value="$PROJECT_DIR$/code/第六章/sparkstreaming_save_to_file/pom.xml" />
+        <option value="$PROJECT_DIR$/code/chapter6/sparkstreaming_save_to_file/pom.xml" />
+        <option value="$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_producer/pom.xml" />
+        <option value="$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_operator/pom.xml" />
       </list>
     </option>
   </component>

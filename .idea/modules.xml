@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spark-streaming-action-facsimile2.iml" filepath="$PROJECT_DIR$/spark-streaming-action-facsimile2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/第五章/sparkstreaming_kafka_operator/sparkstreaming_kafka_operator.iml" filepath="$PROJECT_DIR$/code/第五章/sparkstreaming_kafka_operator/sparkstreaming_kafka_operator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/第五章/sparkstreaming_kafka_producer/sparkstreaming_kafka_producer.iml" filepath="$PROJECT_DIR$/code/第五章/sparkstreaming_kafka_producer/sparkstreaming_kafka_producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_operator/sparkstreaming_kafka_operator.iml" filepath="$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_operator/sparkstreaming_kafka_operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_producer/sparkstreaming_kafka_producer.iml" filepath="$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_producer/sparkstreaming_kafka_producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/chapter6/sparkstreaming_save_to_file/sparkstreaming_save_to_file.iml" filepath="$PROJECT_DIR$/code/chapter6/sparkstreaming_save_to_file/sparkstreaming_save_to_file.iml" />
     </modules>
   </component>
 </project>
