@@ -8,10 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="sparkstreaming_kafka_producer" />
         <module name="sparkstreaming_save_to_file" />
+        <module name="logAnalysis" />
         <module name="sparkstreaming_kafka_operator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="logAnalysis" target="1.7" />
       <module name="sparkstreaming_kafka_operator" target="1.7" />
       <module name="sparkstreaming_kafka_operator (1)" target="1.7" />
       <module name="sparkstreaming_kafka_producer" target="1.7" />

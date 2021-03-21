@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/code/chapter6/sparkstreaming_save_to_file/pom.xml" />
         <option value="$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_producer/pom.xml" />
         <option value="$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_operator/pom.xml" />
+        <option value="$PROJECT_DIR$/code/chapter6/sparkstreaming_save_to_mysql/pom.xml" />
       </list>
     </option>
   </component>
