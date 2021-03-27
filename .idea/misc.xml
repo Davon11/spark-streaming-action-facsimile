@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/code/chapter6/sparkstreaming_save_to_mysql/pom.xml" />
         <option value="$PROJECT_DIR$/code/chapter8/wordFrequenceGenerator/pom.xml" />
         <option value="$PROJECT_DIR$/code/chapter8/sparkstreaming_log_word_frequence_analysis/pom.xml" />
+        <option value="$PROJECT_DIR$/code/chapter8/word_frequence_mysql_kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/code/chapter8/sparkstreaming_log_word_frequence_generator/pom.xml" />
       </list>
     </option>
   </component>

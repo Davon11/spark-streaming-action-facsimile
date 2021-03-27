@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="kafkaSparkStreaming,logAnalysis,sparkstreaming_kafka_operator,sparkstreaming_kafka_operator (1),sparkstreaming_kafka_producer,sparkstreaming_log_word_frequence_analysis,sparkstreaming_save_to_file,sparkstreaming_save_to_mysql" />
+    <profile name="Maven 1" modules="kafkaSparkStreaming,logAnalysis,sparkstreaming_kafka_operator,sparkstreaming_kafka_operator (1),sparkstreaming_kafka_producer,sparkstreaming_log_word_frequence_analysis,sparkstreaming_save_to_file,sparkstreaming_save_to_mysql,word_frequence_mysql_kafka" />
     <profile name="Maven 2" modules="test">
       <parameters>
         <parameter value="-target:jvm-1.5" />

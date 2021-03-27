@@ -4,9 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_operator/sparkstreaming_kafka_operator.iml" filepath="$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_operator/sparkstreaming_kafka_operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_producer/sparkstreaming_kafka_producer.iml" filepath="$PROJECT_DIR$/code/chapter5/sparkstreaming_kafka_producer/sparkstreaming_kafka_producer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/code/chapter8/sparkstreaming_log_word_frequence_analysis/sparkstreaming_log_word_frequence_analysis.iml" filepath="$PROJECT_DIR$/code/chapter8/sparkstreaming_log_word_frequence_analysis/sparkstreaming_log_word_frequence_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/chapter8/sparkstreaming_log_word_frequence_generator/sparkstreaming_log_word_frequence_analysis.iml" filepath="$PROJECT_DIR$/code/chapter8/sparkstreaming_log_word_frequence_generator/sparkstreaming_log_word_frequence_analysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/code/chapter6/sparkstreaming_save_to_file/sparkstreaming_save_to_file.iml" filepath="$PROJECT_DIR$/code/chapter6/sparkstreaming_save_to_file/sparkstreaming_save_to_file.iml" />
       <module fileurl="file://$PROJECT_DIR$/code/chapter6/sparkstreaming_save_to_mysql/sparkstreaming_save_to_mysql.iml" filepath="$PROJECT_DIR$/code/chapter6/sparkstreaming_save_to_mysql/sparkstreaming_save_to_mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/chapter8/word_frequence_mysql_kafka/word_frequence_mysql_kafka.iml" filepath="$PROJECT_DIR$/code/chapter8/word_frequence_mysql_kafka/word_frequence_mysql_kafka.iml" />
     </modules>
   </component>
 </project>
