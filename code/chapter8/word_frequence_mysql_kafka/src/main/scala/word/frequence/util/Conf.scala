@@ -8,6 +8,4 @@ object Conf extends Serializable {
   val initialPoolSize = 3
   val maxPoolSize = 5
   val minPoolSize = 2
-
-
 }

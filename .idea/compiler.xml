@@ -13,6 +13,8 @@
         <module name="sparkstreaming_kafka_operator" />
         <module name="sparkstreaming_log_word_frequence_analysis" />
         <module name="chapter8" />
+        <module name="user_behavior_statistic" />
+        <module name="user_behavior_generator" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +26,8 @@
       <module name="sparkstreaming_save_to_file" target="1.7" />
       <module name="sparkstreaming_save_to_mysql" target="1.7" />
       <module name="test" target="1.8" />
+      <module name="user_behavior_generator" target="1.7" />
+      <module name="user_behavior_statistic" target="1.7" />
       <module name="word_frequence_mysql_kafka" target="1.7" />
       <module name="wordFrequenceGenerator" target="1.8" />
     </bytecodeTargetLevel>
